@@ -1,6 +1,8 @@
 # SpacePi js13k
 *Created by Jack Rugile for js13kGames*
 
-In SpacePi, the goal is to defend your base from invading enemy lines. There are 13 levels of increasing difficulty. Create your own defensive lines, collect coins and powerups, and upgrade your abilities.
+SpacePi is a mouse accuracy/agility game revolving around the defense of 13 bases in the most desolate regions of space.
 
-Forgive the spaghetti code. I am still learning ;)
+Objective: Create lines to defend against enemy lines. Protect your base until it has grown to its target radius. Collect coins to purchase upgrades. Collect powerups to gain benefits.
+
+Recommended Browsers: Chrome, Firefox, Opera
